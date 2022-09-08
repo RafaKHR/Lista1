@@ -1,11 +1,10 @@
 #include<stdio.h>
 int main(){
-	double rolo, n1, n2, resultado;
-	int fios;
+	int fios, n1, n2, resultado;
 	printf("Digite a quantidade necessaria de fios em metros: ");
 	scanf("%d", &fios);
 	n1=fios/50;
-	printf("Sao necessarios %lf rolos", n1);
+	printf("Sao necessarios %d rolos", n1);
 	n2=fios%50;
-	printf("Sao necessarios %lf metros avulsos de fio", n2);
+	printf("Sao necessarios %d metros avulsos de fio", n2);
 }
