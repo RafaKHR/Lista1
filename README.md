@@ -1,1 +1,2 @@
-# 1° Lista de Exercícios da matéria de Algoritmos e Programação
+# 1° Lista de Exercícios
+## Algoritmos e Programação
